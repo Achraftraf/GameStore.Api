@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="GameStore.Api.csproj" Type="C#">
+    <Configuration Solution="Debug|AnyCPU" Project="Debug|AnyCPU" />
+    <Configuration Solution="Release|AnyCPU" Project="Release|AnyCPU" />
+  </Project>
+</Solution>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\achra\\.gemini\\antigravity\\scratch\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj",
-      "projectName": "AspNetCoreEmpty",
-      "projectPath": "C:\\Users\\achra\\.gemini\\antigravity\\scratch\\AspNetCoreEmpty\\AspNetCoreEmpty.csproj",
+      "projectUniqueName": "C:\\Users\\achra\\Desktop\\GameStore.Api\\GameStore.Api.csproj",
+      "projectName": "GameStore.Api",
+      "projectPath": "C:\\Users\\achra\\Desktop\\GameStore.Api\\GameStore.Api.csproj",
       "packagesPath": "C:\\Users\\achra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\achra\\.gemini\\antigravity\\scratch\\AspNetCoreEmpty\\obj\\",
+      "outputPath": "C:\\Users\\achra\\Desktop\\GameStore.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\achra\\AppData\\Roaming\\NuGet\\NuGet.Config"
